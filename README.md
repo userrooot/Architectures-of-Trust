@@ -19,7 +19,7 @@ and self-critique pipelines to align models with minimal human labeling. We furt
 persistent socio-technical vulnerabilities, including gradient-based adversarial attacks such as the
 Greedy Coordinate Gradient (GCG), the exploitation of latent refusal directions via representation
 engineering, and the cultural biases embedded in constitutional framing. Through an examination
-of scalable oversight mechanisms including AI Safety via Debate and Weak-to-Strong Generalization—we outline the theoretical limits and structural requirements for robustly aligning future frontier models. This paper contributes a unified framework for understanding alignment paradigms, a
+of scalable oversight mechanisms including AI Safety via Debate and Weak-to-Strong Generalization we outline the theoretical limits and structural requirements for robustly aligning future frontier models. This paper contributes a unified framework for understanding alignment paradigms, a
 critical synthesis of their limitations, and a research agenda for developing verifiably safe AI systems.
 
 ## 📥 Download Full Paper
